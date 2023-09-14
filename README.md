@@ -36,17 +36,9 @@
 
 ## 📚 기술 스택
 
-### Frontend
 |JavaScript|React|Styled-Components|esLint|Prettier|
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://www.styled-components.com/atom.png" width="65" height="65" /></div> | <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /> |
-
-### Backend
-
-|JavaScript|Node.js|MySQL|
-|:---:|:---:|:---:|
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </div> |
-
 ## ⚙️ 협업툴
 
 <div>
