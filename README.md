@@ -34,12 +34,23 @@
 |Footer|김민정|-|
 
 ## 🖼️ 구현 화면
+
+### 공연 상세정보 페이지
 ![상세](https://github.com/dxxcw/46-2nd-Kulture-frontend/assets/122979057/764dbb60-80f5-4bad-b669-ff65e4a638c8)
 
+### 티켓 바로 구매 모달
 ![구매](https://github.com/dxxcw/46-2nd-Kulture-frontend/assets/122979057/a5ca18f4-8d74-47a7-a1ce-1fa8424b0c37)
+
+### nivo 라이브러리
 ![그래프](https://github.com/dxxcw/46-2nd-Kulture-frontend/assets/122979057/96938e4d-8500-4345-8b14-96e261ae7201)
+
+### google maps 라이브러리
 ![구글맵](https://github.com/dxxcw/46-2nd-Kulture-frontend/assets/122979057/2fb9867b-a2ec-4d7d-ae8a-407ba8cd7fb4)
+
+### 검색기능
 ![검색기능](https://github.com/dxxcw/46-2nd-Kulture-frontend/assets/122979057/0e33d36b-00bf-4161-a0de-538fc9920bc0)
+
+### 회원 정보 수정
 ![정보수정](https://github.com/dxxcw/46-2nd-Kulture-frontend/assets/122979057/79974e99-a2d3-41ca-962d-bb538b2dba15)
 
 
